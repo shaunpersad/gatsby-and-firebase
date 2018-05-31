@@ -25,4 +25,4 @@ docker build -t firebase-fail . && docker run firebase-fail
 ```
 After running, you will see errors similar to these:
 
-![https://www.dropbox.com/s/wcnozoev2ewgtm8/Screenshot%202018-05-30%2023.25.53.png](https://www.dropbox.com/s/wcnozoev2ewgtm8/Screenshot%202018-05-30%2023.25.53.png)
+![/screenshot.png](/screenshot.png)
